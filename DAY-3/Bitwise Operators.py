@@ -1,5 +1,6 @@
 a = 5   # 0101
 b = 3   # 0011
+print("Bitwise Operators:")
 
 print("AND:", a & b)
 print("OR:", a | b)
