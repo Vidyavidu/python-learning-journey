@@ -1,0 +1,13 @@
+Write a program that opens an existing text file and calculates exactly how many lines of text it contains
+Exercise Purpose This is a fundamental Data Auditing task
+Before you process a log file or a dataset you need to know its size
+This exercise teaches you how to iterate through a file object efficiently
+Given Input A file sample.txt with  lines of text
+qweryuiopkjhgfdsdfhjkl ytdsdfghjkuytdc
+tresjkoi8t
+uytdsdfghjk
+uytresdfghjk
+uytrdsdfghjkl
+jhgfdsghjjg
+iuytrdsdfhjkl
+Expected Output 
